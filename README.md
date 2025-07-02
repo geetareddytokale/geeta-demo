@@ -1,3 +1,3 @@
 # geeta-demo
-This is my first Git Repository
-Aythor - Geeta Reddy
+This is my first Git Repository.
+Author - Geeta Reddy
